@@ -15,7 +15,7 @@ I am a B.Tech Computer Science student with a strong interest in Data Structures
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->## Hi there 👋
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!--
 **Shivansh-developer/Shivansh-developer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
